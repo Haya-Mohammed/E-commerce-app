@@ -1,6 +1,7 @@
-# t_store
+# E-commerce App
 
 A Flutter project.
+A modern E-commerce app, with modern Designs.
 
 ## App UI
 
